@@ -1,24 +1,7 @@
-# 04-indecision
+# PROYECTO DECISION
 
-## Project setup
-```
-npm install
-```
+Este proyecto corresponde a la primera practica usando Vue JS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Imagenes:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Alt text](image.png)
